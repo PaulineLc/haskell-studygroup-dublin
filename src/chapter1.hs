@@ -1,7 +1,5 @@
 {-|
-  Chapter 1:
-
-  Intermission exercice:
+  Intermission exercises 1
   1. B.
   2. C
   3. B
